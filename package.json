@@ -1,0 +1,23 @@
+{
+  "name": "repurpose",
+  "description": "A package which does nothing at all",
+  "version": "0.0.1",
+  "author": {
+    "name": "Lulzx",
+    "email": "team@repurposex.com",
+    "url": "https://repurposex.com"
+  },
+  "license": "MIT",
+  "keywords": ["placeholder"],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/lulzx/repurpose-js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "devDependencies": {
+    "test": ">=0.0.5"
+  }
+}
